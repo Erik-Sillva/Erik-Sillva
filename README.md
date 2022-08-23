@@ -1,9 +1,9 @@
-## Hello! My names is Erik!
+## Olá! Me chamo Erik Henrique, tenho 18 anos e sou desenvolvedor web front-end.
 
 <div align="center">
   <a href="https://github.com/Erik-Sillva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik-sillva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-sillva&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=erik-sillva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-sillva&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
