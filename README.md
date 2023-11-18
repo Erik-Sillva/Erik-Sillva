@@ -1,4 +1,4 @@
-## Olá! Me chamo Erik Henrique, tenho 18 anos e sou desenvolvedor web front-end.
+## Seja muito bem vindo ao meu Github! Muito prazer, me chamo Erik, tudo bem? Espero que goste dos meus projetos feitos com carinho, estudo e muita dedicação! Até logo! 👋
 
 <div align="center">
   <a href="https://github.com/Erik-Sillva">
